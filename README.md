@@ -1,11 +1,15 @@
 # README
 
+Your job is to finish the CSS to match the HTML page to the 3 responsive layouts.
+
+## Resources
+
 The resources folder contains screenshots of the final website at three sizes: mobile, tablet, and desktop. 
+
+## Starter Files
 
 The starter_files folder contains the index.html and style.css pages. 
 Don't edit the HTML page. You can match the mockups with nothing more than CSS, so you have no reason to edit the HTML. Because this assignment is about responsive layout, some of the more basic visual styles are already in place in the CSS document.
-
-Your job is to finish the CSS to match the HTML page to the 3 responsive layouts.
 
 
 ### Step 1:
