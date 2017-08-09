@@ -1,4 +1,4 @@
-# 2.1-Assessment-Page-Layout
+# README
 
 The resources folder contains screenshots of the final website at three sizes: mobile, tablet, and desktop. 
 
